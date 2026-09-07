@@ -284,19 +284,19 @@
         </div>
 
         <div class="certificate-card">
-            <img src="sertifikat-iso9001.jpg" alt="Sertifikat ISO 9001">
+            <img src="ISO9001.jpg" alt="Sertifikat ISO 9001">
             <h3>ISO 9001</h3>
             <p>Quality Management System</p>
         </div>
 
         <div class="certificate-card">
-            <img src="sertifikat-iso14001.jpg" alt="Sertifikat ISO 14001">
+            <img src="ISO14001.jpg" alt="Sertifikat ISO 14001">
             <h3>ISO 14001</h3>
             <p>Environmental Management System</p>
         </div>
 
         <div class="certificate-card">
-            <img src="sertifikat-iso45001.jpg" alt="Sertifikat ISO 45001">
+            <img src="ISO45001.jpg" alt="Sertifikat ISO 45001">
             <h3>ISO 45001</h3>
             <p>Occupational Health & Safety</p>
         </div>
